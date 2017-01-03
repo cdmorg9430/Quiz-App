@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Baseball Quiz App</string>
+    <string name="app_Title">Welcome to the Baseball Quiz</string>
+
+    <!-- Question One-->
+    <string name="question_one">How many defensive players are allowed on the field?</string>
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+
+    <!-- Question Two-->
+    <string name="question_two">When a ball is hit out of bounds it is called a _____?</string>
+    <string name="leftie">Leftie</string>
+    <string name="southpaw">Southpaw</string>
+    <string name="foul">Foul</string>
+    <string name="rightie">Rightie</string>
+
+    <!-- Question Three-->
+    <string name="question_three">How many strikes are allowed before the batter is considered out?</string>
+    <string name="oneStrike">One</string>
+    <string name="threeStrikes">Three</string>
+    <string name="twoStrikes">Two</string>
+    <string name="fourStrikes">Four</string>
+
+    <!-- Question Four-->
+    <string name="question_four">This New York Yankee is considered one of the best players of all time.</string>
+    <string name="baloo">Baloo</string>
+    <string name="bambi">Bambi</string>
+    <string name="bambino">Great Bambino</string>
+    <string name="blaster">Blaster</string>
+
+    <!-- Question Five-->
+    <string name="question_five">Which of the following are common baseball terms?</string>
+    <string name="grandSlam">Grand Slam</string>
+    <string name="doublePlay">Double Play</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="endZone">End Zone</string>
+
+    <!--Question Six-->
+
+    <string name="question_six">What is the name of Baseball\'s Championship Series?</string>
+    <string name="q5_hintText">Enter Answer Here</string>
+
+    <string name="calculateScore">Calculate Score</string>
+    <string name="resetScore">Reset Score</string>
+</resources>
